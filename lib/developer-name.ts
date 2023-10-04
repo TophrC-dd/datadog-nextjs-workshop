@@ -1,1 +1,1 @@
-export const DEVELOPER_NAME = "|TOPHER_CAMPBELL|";
+export const DEVELOPER_NAME = "TOPHER-CAMPBELL";
