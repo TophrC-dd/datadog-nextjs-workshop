@@ -1,1 +1,1 @@
-export const DEVELOPER_NAME = "TOPHER-CAMPBELL";
+export const DEVELOPER_NAME = "topher";
